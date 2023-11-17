@@ -205,10 +205,10 @@ def play_youtube_video(query):
     kit.playonyt(query)
 
 jokes = [
-    "Why did the computer catch a cold? Because it had Windows open!",
-    "Why don't programmers like nature? It has too many bugs.",
-    "What do you call a computer that sings? A Dell!",
-    "Why was the math book sad? Because it had too many problems.",
+    "Where did the computer go? I don’t know, he ransomware.",
+    "What did one computer say to the other after a 12 hour car ride? Darn, that was a hard drive.",
+    "What’s an astronaut’s favorite part of a computer? The space bar.",
+    "Why do programmers wear glasses? Because they can’t C#.",
 ]
 
 def get_joke():
