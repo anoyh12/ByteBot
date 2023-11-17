@@ -1,5 +1,5 @@
 # ByteBot
-A python chatbot fetching Wikipedia, playing YouTube, sharing jokes, weather updates, Google searches, number conversions, time info. Modular for expansion, ideal for AI projects.
+A python chatbot fetching Wikipedia, playing YouTube, weather updates, Google searches, number conversions, time info. Modular for expansion, ideal for AI projects.
 
 # ByteBot is a Python-based chatbot capable of interacting with users through text input. It utilizes various APIs and libraries to perform tasks ranging from fetching information from Wikipedia, playing YouTube videos, retrieving weather data, telling jokes, conducting Google searches, and performing number conversions.
 
